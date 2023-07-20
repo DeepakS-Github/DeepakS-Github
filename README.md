@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thisisdeepak21310@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing](https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing)
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing](https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 

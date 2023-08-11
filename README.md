@@ -1,15 +1,14 @@
-
+<img width="100%" height = "100%" src="./banner/Github Banner.png" alt="Hi, I'm Deepak" />
 
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeepakS-Github/](https://github.com/DeepakS-Github/)
 
-- 📫 How to reach me **thisisdeepak21310@gmail.com**
-
 - 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing](https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisisdeepak21310@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisdeepak/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharmadeepak0501/)
 

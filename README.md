@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate MERN Stack developer, Mobile Application Developer (Android and iOS) and Competitive Programmer from India pursuing Bachelor of Technology in Information Technology at Indian Institute of Information Technology Una</h3>
 
-![MasterHead](https://drive.google.com/uc?export=download&id=1t0YqVUmlpA2vusRPzGpHVZ3iuliU_l3_)
 
 - 🌱 I’m currently learning **React Native**
 

@@ -49,4 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaks-github&" alt="deepaks-github" /></p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaks-github&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaks-github&theme=react-dark)

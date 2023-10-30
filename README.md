@@ -10,7 +10,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepakanonymous75)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/deepakanoj8xi)
 
-
 ## Skills
 
 ### Programming Languages
@@ -48,5 +47,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaks-github&show_icons=true&locale=en" alt="deepaks-github" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaks-github&" alt="deepaks-github" /></p>
+
+<div align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaks-github&theme=react-dark)

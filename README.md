@@ -2,7 +2,6 @@
 
 ## Resume & Contact Me
 [![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0d9488?style=for-the-badge&logo=mail.ru&logoColor=white)](https://contact-github.vercel.app/)
 
 
 ## Coding Profiles

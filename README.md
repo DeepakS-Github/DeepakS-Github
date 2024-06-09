@@ -1,6 +1,6 @@
 <img width="100%" height = "100%" src="./banner/Github Banner.png" alt="Hi, I'm Deepak" />
 
-## Resume & Contact Me
+## Resume
 [![MyResume](https://img.shields.io/badge/Resume-ef4444?style=for-the-badge&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing)
 
 
